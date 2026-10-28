@@ -1,0 +1,10 @@
+{
+  "name": "TaskReview AI - Task Audit & Adaptive Voice Reviewer",
+  "description": "AI-driven deliverable evaluation, 2-3 page executive review document generation with Google Meet integration, and real-time voice-assisted meeting companion.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
